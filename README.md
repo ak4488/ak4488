@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+## Im Augustinas Barisa
+
+
+*Just a simple **programmer** :)*
+
+
 <!--
 **ak4488/ak4488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
